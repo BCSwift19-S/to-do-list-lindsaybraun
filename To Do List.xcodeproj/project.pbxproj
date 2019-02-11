@@ -12,6 +12,7 @@
 		5742D15622113442002EE905 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 5742D15422113442002EE905 /* Main.storyboard */; };
 		5742D15822113445002EE905 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 5742D15722113445002EE905 /* Assets.xcassets */; };
 		5742D15B22113445002EE905 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 5742D15922113445002EE905 /* LaunchScreen.storyboard */; };
+		5742D1632211BB09002EE905 /* DetailViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5742D1622211BB09002EE905 /* DetailViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -22,6 +23,7 @@
 		5742D15722113445002EE905 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		5742D15A22113445002EE905 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		5742D15C22113445002EE905 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		5742D1622211BB09002EE905 /* DetailViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DetailViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -57,6 +59,7 @@
 				5742D15022113442002EE905 /* AppDelegate.swift */,
 				5742D15222113442002EE905 /* ViewController.swift */,
 				5742D15422113442002EE905 /* Main.storyboard */,
+				5742D1622211BB09002EE905 /* DetailViewController.swift */,
 				5742D15722113445002EE905 /* Assets.xcassets */,
 				5742D15922113445002EE905 /* LaunchScreen.storyboard */,
 				5742D15C22113445002EE905 /* Info.plist */,
@@ -135,6 +138,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				5742D1632211BB09002EE905 /* DetailViewController.swift in Sources */,
 				5742D15322113442002EE905 /* ViewController.swift in Sources */,
 				5742D15122113442002EE905 /* AppDelegate.swift in Sources */,
 			);
